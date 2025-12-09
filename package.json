@@ -1,0 +1,10 @@
+{
+  "name": "log-analyzer",
+  "version": "1.0.0",
+  "description": "Log Analyzer Tool by L8ab Systems",
+  "main": "src/analyzer.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {}
+}
